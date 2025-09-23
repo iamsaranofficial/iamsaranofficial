@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsaranofficial&label=Profile%20views&color=0e75b6&style=flat" alt="iamsaranofficial" /> </p>
 
-<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsaranofficial" alt="iamsaranofficial" /></a>
-
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=iamsaranofficial&theme=monokai&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **Flask**
 
